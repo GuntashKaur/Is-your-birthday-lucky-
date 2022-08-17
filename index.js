@@ -28,10 +28,10 @@ function calculateSum(dob){
 function compareValues(sum,luckyNumber){
 
     if(sum%luckyNumber===0){
-        console.log("Your birthday is lucky")
+        alert("Your Birthday Is Lucky")
     }
     else{
-        console.log("Your birthday is not lucky")
+        alert("Your Birthday Is Not Lucky")
     }
 
 }

@@ -1,7 +1,43 @@
 
-body{
-    width: 800px;
-    margin: auto;
-    text-align: center;
 
+
+.container{
+    border: none;
+    background-color: deeppink;
+    border-radius: 200px;
+    padding: 30px;
+    width: 600px;
+    margin: auto;
+    display: block;
+    margin-top: 40px;
+    text-align: center;
+    height: 400px;
+}
+
+
+h1{
+   
+    font-size: 50px;
+    width: 600px;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    color: deeppink;
+}
+
+h3{
+    font-size: 40px;
+    color: white;
+}
+
+input{
+    height: 30px;
+    font-size: 15px;
+}
+
+button{
+    color: deeppink;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
 }
